@@ -1,0 +1,55 @@
+.home{
+    background-color: rgba(1, 1, 1, 0.997);
+    display: flex;
+}
+.img {
+    border-radius: 10px;
+}
+
+.info {
+    line-height: normal;
+    margin: 50px;
+    width: 50%;
+    height: min-content;
+    scroll-padding: auto;
+    display: flex;
+    background-color: rgba(69, 69, 69, 0.836);
+    border: 3px;
+    border-radius: 25px;
+    color: white;
+}
+
+.info_bottom {
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.name {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.status {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-style: italic;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.location {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
